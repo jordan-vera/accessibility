@@ -1,0 +1,2 @@
+# accessibility
+Para ayudar a los usuarios con discapacidades visuales, hemos introducido muchos cambios para mejorar la accesibilidad del teclado y la experiencia del lector de pantalla. Introdujimos etiquetas y navegación por teclado para elementos como la configuración y el menú de contactos, notificaciones y el menú de carga, así como la adición de omitir navegación / omitir enlaces de contenido. Gran parte de este trabajo fue ampliamente probado y guiado por varios miembros de la comunidad que utilizan estos dispositivos, ¡así que muchas gracias por sus contribuciones!
